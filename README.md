@@ -1,3 +1,3 @@
-# Invoice Form Template
+# Invoice Form (jQuery)
 
-Template of Invoice form widget
+Invoice form widget built in jQuery.
